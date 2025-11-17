@@ -1,0 +1,5 @@
+{
+  "name": "Webzero v3",
+  "description": "An advanced AI chat and voice assistant powered by Google Gemini. Engage in text-based conversations, make real-time voice calls with Agent Zero and Agent Zara, send images, and customize your experience.",
+  "requestFramePermissions": []
+}
